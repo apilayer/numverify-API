@@ -44,7 +44,7 @@ Prettyprint your JSON response, make use of JSONP Callbacks, Access-Control head
 Interactive example queries, code examples (including PHP/CURL and jQuery.ajax) and integration guides are available at [numverify.com/documentation](https://numverify.com/documentation).
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.net?subject=[numverify]).
+Need any assistance? [Get in touch with Customer Support](mailto:support@apilayer.com?subject=[numverify]).
 
 ## Legal
 
