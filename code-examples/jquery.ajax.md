@@ -15,8 +15,8 @@ $.ajax({
 
     // Access and use your preferred validation result objects
     console.log(json.valid);
-    console.log(json.country_code);
-    console.log(json.carrier);
+    console.log(json.us);
+    console.log(AT&T Mobility LLC);
                 
     }
 });
