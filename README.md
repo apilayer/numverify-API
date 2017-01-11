@@ -11,7 +11,7 @@ Our phone number format validation system is based on the most up-to-date intern
 
 We believe that every online business that in any way utilizes it's customers phone numbers should be validating them in order to ensure frictionless communication and reduce undelivered messages, that is why we decided to offer 250 monthly validation requests for free - no credit card required. 
 
-[Sign up for for free](https://vatlayer.com/product) to get instant API Access.
+[Sign up for for free](https://numverify.com/product) to get instant API Access.
 
 ## Features & Integration
 
