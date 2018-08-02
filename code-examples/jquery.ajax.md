@@ -7,7 +7,7 @@ Find below a simple way of using jQuery.ajax to validate any phone number:
 var access_key = 'YOUR_ACCESS_KEY';
 var phone_number = '14158586273';
 
-// verify email address via AJAX call
+// verify phone number via AJAX call
 $.ajax({
     url: 'http://apilayer.net/api/validate?access_key=' + access_key + '&number=' + phone_number,   
     dataType: 'jsonp',
